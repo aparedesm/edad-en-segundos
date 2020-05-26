@@ -6,4 +6,8 @@ cerdo
 cerdito
 puerco
 
+<<<<<<< HEAD
 la esperanza del ser humano
+=======
+sombra de noche
+>>>>>>> cbac59fb99eccfcf449f8156636388a2e9e15fa2
